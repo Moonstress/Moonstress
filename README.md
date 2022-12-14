@@ -1,4 +1,4 @@
-<h1 align="center">Greetins! I'm Moonstress</h1>
+<h1 align="center">Greetings! I'm Moonstress</h1>
 <h3 align="center">A passionate learner from Chile, working on getting her Computer Engineering Degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonstress&label=Profile%20views&color=0e75b6&style=flat" alt="moonstress" /> </p>
