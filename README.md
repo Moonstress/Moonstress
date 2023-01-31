@@ -14,6 +14,8 @@
 - 📫 How to reach me **lil.moonstress@gmail.com**
 
 - ⚡ I like **videogames, reading, programming, crafts and martial arts.**
+
+- 💬 Ask me about **css, html**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
