@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Little Realm Webpage**
 
-- 🌱 I’m currently learning **Cibersecurity**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moonstress](https://github.com/Moonstress)
 
@@ -15,7 +15,7 @@
 
 - ⚡ I like **videogames, reading, programming, crafts and martial arts.**
 
-- 💬 Ask me about **css, html**
+- 💬 Ask me about **css, html, Sass**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
