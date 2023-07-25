@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonstress" alt="moonstress" /></a> </p>
 
-- 🔭 I’m currently working on **Little Realm Webpage**
+- 🔭 I’m currently working on **Fluentia Virtus E-Commerce**
 
 - 🌱 I’m currently learning **Javascript**
 
