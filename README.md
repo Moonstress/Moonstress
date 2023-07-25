@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Fluentia Virtus E-Commerce**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moonstress](https://github.com/Moonstress)
 
 - 📫 How to reach me **lil.moonstress@gmail.com**
 
-- ⚡ I like **videogames, reading, programming, crafts and martial arts.**
+- ⚡ I like **videogames, reading, programming, crafts, psychology and martial arts.**
 
-- 💬 Ask me about **css, html, Sass**
+- 💬 Ask me about **css, html, Sass, Javascript**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
