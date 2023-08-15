@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fluentia Virtus E-Commerce**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moonstress](https://github.com/Moonstress)
 
